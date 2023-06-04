@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://jaybodra001.github.io/FirstReactCreated",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
